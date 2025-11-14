@@ -1,4 +1,3 @@
-<!-- Profile Views -->
 <h1 align="center">Hi 👋, I'm Sabuj Hossain</h1>
 <h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
@@ -15,8 +14,8 @@
 
 ## 🫣 Who Am I?
 
-🚀 A dedicated **Full-Stack Developer in progress**, exploring **React, Laravel, MERN, Python**  
-💡 I love creating modern UIs, scalable backend systems & real-world problem-solving  
+🚀 A dedicated **Full-Stack Developer in progress**, working with **React, Tailwind, Next.js, Laravel, MySQL**  
+💡 Focused on modern UI, scalable backend systems & real-world applications  
 🔥 Always learning, always building, always improving  
 
 ---
@@ -25,13 +24,19 @@
 
 <table>
   <tr>
-    <td align="center"><strong>React</strong><br><img src="https://skillicons.dev/icons?i=react" width="45"/></td>
-    <td align="center"><strong>Vite</strong><br><img src="https://skillicons.dev/icons?i=vite" width="45"/></td>
-    <td align="center"><strong>Taiwind</strong><br><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></td>
     <td align="center"><strong>HTML</strong><br><img src="https://skillicons.dev/icons?i=html" width="45"/></td>
     <td align="center"><strong>CSS</strong><br><img src="https://skillicons.dev/icons?i=css" width="45"/></td>
     <td align="center"><strong>JavaScript</strong><br><img src="https://skillicons.dev/icons?i=javascript" width="45"/></td>
-    <td align="center"><strong>Bootstrap</strong><br><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/></td>
+    <td align="center"><strong>React</strong><br><img src="https://skillicons.dev/icons?i=react" width="45"/></td>
+    <td align="center"><strong>Next.js</strong><br><img src="https://skillicons.dev/icons?i=nextjs" width="45"/></td>
+    <td align="center"><strong>Tailwind CSS</strong><br><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Vite</strong><br><img src="https://skillicons.dev/icons?i=vite" width="45"/></td>
+    <td align="center"><strong>Axios</strong><br><img src="https://skillicons.dev/icons?i=react" width="45"/></td>
+    <td align="center"><strong>NPM</strong><br><img src="https://skillicons.dev/icons?i=npm" width="45"/></td>
+    <td align="center"><strong>NVM</strong><br><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></td>
+    <td align="center"><strong>Webpack</strong><br><img src="https://skillicons.dev/icons?i=webpack" width="45"/></td>
   </tr>
 </table>
 
@@ -41,11 +46,11 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Laravel</strong><br><img src="https://skillicons.dev/icons?i=laravel" width="45"/></td>
     <td align="center"><strong>PHP</strong><br><img src="https://skillicons.dev/icons?i=php" width="45"/></td>
-    <td align="center"><strong>Node.js</strong><br><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></td>
-    <td align="center"><strong>Express</strong><br><img src="https://skillicons.dev/icons?i=express" width="45"/></td>
+    <td align="center"><strong>Laravel</strong><br><img src="https://skillicons.dev/icons?i=laravel" width="45"/></td>
     <td align="center"><strong>MySQL</strong><br><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
+    <td align="center"><strong>phpMyAdmin</strong><br><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
+    <td align="center"><strong>Apache</strong><br><img src="https://skillicons.dev/icons?i=apache" width="45"/></td>
   </tr>
 </table>
 
@@ -63,6 +68,20 @@
 
 ---
 
+## 🛠 Tactical Toolkit
+
+<table>
+  <tr>
+    <td align="center"><strong>Git</strong><br><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
+    <td align="center"><strong>GitHub</strong><br><img src="httpsillicons.dev/icons?i=github" width="45"/></td>
+    <td align="center"><strong>GitLab</strong><br><img src="https://skillicons.dev/icons?i=gitlab" width="45"/></td>
+    <td align="center"><strong>Figma (UI/UX)</strong><br><img src="https://skillicons.dev/icons?i=figma" width="45"/></td>
+    <td align="center"><strong>Postman</strong><br><img src="https://skillicons.dev/icons?i=postman" width="45"/></td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Deployer’s Realm
 
 <table>
@@ -75,22 +94,12 @@
 
 ---
 
-## 🛠 Tactical Toolkit
-
-<table>
-  <tr>
-    <td align="center"><strong>Git</strong><br><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
-    <td align="center"><strong>VSCode</strong><br><img src="httpsillicons.dev/icons?i=vscode" width="45"/></td>
-    <td align="center"><strong>Postman</strong><br><img src="https://skillicons.dev/icons?i=postman" width="45"/></td>
-  </tr>
-</table>
-
----
-
 ## 📬 How to Reach Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sabuj-hossain-6135a7326/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sabuj-hossain-6135a7326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -112,11 +121,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_sabuj0012i&theme=default" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabuj0012i&theme=default" width="45%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=YOUR_sabuj0012i&theme=default" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=sabuj0012i&theme=default" width="45%"/>
 
 </div>
 
 ---
-
