@@ -1,15 +1,12 @@
-<!-- ========== ANIMATED HEADER ========== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Sabuj+Hossain!;Full-Stack+Developer+in+Progress;A+Passionate+Learner+%F0%9F%94%A5&center=true&size=28&color=0078ff">
-</h1>
+<h1 align="center">Hi 👋, I'm Sabuj Hossain</h1>
+<h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sabuj0012i&label=Visitors&color=blue&style=flat-square" />
 </p>
 
----
 
-<!-- ========== CONTACT SECTION AT TOP ========== -->
+
 ## 📬 Contact With Me  
 
 <p align="center">
@@ -26,26 +23,24 @@
   </a>
 </p>
 
----
 
-## 🧑‍🚀 About Me (Professional Summary)
+
+## 🧑‍🚀 About Me
 
 <p align="center">
-  🔥 Passionate about building full-stack applications  
-  🚀 Learning daily — React, Next.js, Laravel, MySQL, Python  
-  💡 Love solving real-world problems with clean UI + solid backend  
+  🔥 Passionate about building full-stack applications <br>
+  🚀 Working with React, Next.js, Laravel, MySQL, Python <br>
+  💡 Love clean UI + scalable backend systems <br>
   🎯 Goal: Become a world-class Full-Stack Software Engineer  
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge" />
 </p>
 
 ---
 
-# 🎨 Tech Arsenal (Front-End)
+# 🎨 Frontend Tech Stack
 
 <table align="center">
   <tr>
@@ -54,7 +49,7 @@
     <td align="center"><strong>JS</strong><br><img src="https://skillicons.dev/icons?i=javascript" width="45"/></td>
     <td align="center"><strong>React</strong><br><img src="https://skillicons.dev/icons?i=react" width="45"/></td>
     <td align="center"><strong>Next.js</strong><br><img src="https://skillicons.dev/icons?i=nextjs" width="45"/></td>
-    <td align="center"><strong>Tailwind</strong><br><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></td>
+    <td align="center"><strong>Tailwind</strong><br><img src="httpsillicons.dev/icons?i=tailwind" width="45"/></td>
   </tr>
   <tr>
     <td align="center"><strong>Vite</strong><br><img src="https://skillicons.dev/icons?i=vite" width="45"/></td>
@@ -64,7 +59,7 @@
   </tr>
 </table>
 
----
+
 
 # 🖥 Backend & Database Skills
 
@@ -78,9 +73,8 @@
   </tr>
 </table>
 
----
 
-# 🧠 Data & AI Tools
+# 🧠 Data & Analytics Tools
 
 <table align="center">
   <tr>
@@ -90,9 +84,8 @@
   </tr>
 </table>
 
----
 
-# 🛠 Productivity & Tools
+# 🛠 Toolkit & Productivity
 
 <table align="center">
   <tr>
@@ -104,7 +97,6 @@
   </tr>
 </table>
 
----
 
 # 🌍 Deployment Platforms
 
@@ -118,7 +110,7 @@
 
 ---
 
-# 📊 GitHub Analytics (White, Premium Style)
+# 📊 GitHub Analytics 
 
 <p align="center">
   <img 
