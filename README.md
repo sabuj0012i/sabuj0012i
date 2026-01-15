@@ -110,25 +110,26 @@
 
 ---
 
-# 📊 GitHub Analytics 
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sabuj0012i&show_icons=true&theme=default&bg_color=ffffff&hide_border=false" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sabuj0012i&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
     width="48%"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuj0012i&layout=compact&theme=default&bg_color=ffffff&hide_border=false" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuj0012i&layout=compact&theme=transparent&hide_border=true"
     width="48%"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=sabuj0012i&theme=default&background=FFFFFF" 
+  <img
+    src="https://streak-stats.demolab.com?user=sabuj0012i&theme=transparent&hide_border=true"
     width="95%"
   />
 </p>
+
 
 ---
 
