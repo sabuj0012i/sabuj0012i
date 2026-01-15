@@ -113,19 +113,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sabuj0012i&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=sabuj0012i&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=21600"
     width="48%"
   />
+
+  <!-- Top Languages Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuj0012i&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuj0012i&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600"
     width="48%"
   />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak Card -->
   <img
-    src="https://streak-stats.demolab.com?user=sabuj0012i&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=sabuj0012i&theme=tokyonight&hide_border=true&cache_seconds=21600"
     width="95%"
   />
 </p>
